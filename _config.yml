@@ -1,0 +1,7 @@
+title: 3D Viewer
+description: View and inspect 3D models instantly in your browser.
+url: https://3d.blaze.design
+baseurl: ""
+
+sass:
+  style: compressed
